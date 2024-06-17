@@ -17,14 +17,12 @@ Hoy en día todo está conectado o puede conectarse a una tecnología para que e
 
 ## Encuéntrame en:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rafael González Escobar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/rafaelge96)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rafael_González_Escobar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/rafaelge96)
 [![Web](https://img.shields.io/badge/rafaelge.es-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://rafaelge.es)
 
 
 ## Contacto y apoyo:
 
-[![MyPublicInbox](https://img.shields.io/badge/MyPublicInbox-MENSAJE+CAFÉ_(RESPUESTA_RÁPIDA)_Gracias!-orange?style=for-the-badge&logo=Microsoft+Outlook&logoColor=white&labelColor=101010)](https://mypublicinbox.com/mouredev)
-</br>
-[![Email](https://img.shields.io/badge/rafaelge96@hotmail.com-email_personal_(respuesta_lenta)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:rafaelge96@hotmail.com)
+[![Email](https://img.shields.io/badge/rafaelge96@hotmail.com-email_personal-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:rafaelge96@hotmail.com)
 </br>
 [![BuyMeACoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-apoya_mi_trabajo-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white&labelColor=101010)](https://www.buymeacoffee.com/mouredev)
