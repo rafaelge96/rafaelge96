@@ -1,4 +1,4 @@
-# ![https://mouredev.com](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_emote.png) Hello world! 👋
+# ![https://mouredev.com](https://raw.githubusercontent.com/mouredev/mouredev/master/rafaelge96_emote.png) Hello world! 👋
 ### Android Senior Developer
 
 ![https://github.com/mouredev](./rafaelge96_github_profile.png)
