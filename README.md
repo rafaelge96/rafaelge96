@@ -14,7 +14,17 @@ Hoy en día todo está conectado o puede conectarse a una tecnología para que e
 
 #Buscar 🔎, #entender 🥸 y #simplificar 🧮 las necesidades del cliente es la clave para lograr el objetivo. 🏆
 
-> 👥 [Apple teacher]([https://mvp.microsoft.com/es-es/PublicProfile/5004970](https://education.apple.com/learning-center/T040412A-es_ES)) 
+> 👥 [Apple teacher]([https://mvp.microsoft.com/es-es/PublicProfile/5004970](https://education.apple.com/learning-center/T040412A-es_ES))
+
+## Proyectos:
+[![Caixabank](https://play-lh.googleusercontent.com/_mt-ztb4JU-L-hdEA4bL3YQ-AZl7j5nJU_O-pKVoMddb6_cz0HBtnxs4fLMGMJ-q7A=s512)](https://play.google.com/store/apps/details?id=es.lacaixa.mobile.android.newwapicon&hl=es&gl=US)
+
+[![Caixabank](https://play-lh.googleusercontent.com/QYPE-tE20WBsHIzueFzEdw8LtUias481ny1jLdEmAL4K3rAJNDHf5tCFXclEPDrJDw=s96)](https://play.google.com/store/apps/details?id=es.lacaixa.mobile.android.newwapicon&hl=es&gl=US)
+
+
+[![Caixabank](https://play-lh.googleusercontent.com/QYPE-tE20WBsHIzueFzEdw8LtUias481ny1jLdEmAL4K3rAJNDHf5tCFXclEPDrJDw=s96)](https://play.google.com/store/apps/details?id=es.lacaixa.mobile.android.newwapicon&hl=es&gl=US)
+
+
 
 ## Encuéntrame en:
 
