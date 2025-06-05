@@ -17,12 +17,18 @@ Hoy en día todo está conectado o puede conectarse a una tecnología para que e
 > 👥 [Apple teacher]([https://mvp.microsoft.com/es-es/PublicProfile/5004970](https://education.apple.com/learning-center/T040412A-es_ES))
 
 ## Proyectos:
-[![Caixabank](https://play-lh.googleusercontent.com/_mt-ztb4JU-L-hdEA4bL3YQ-AZl7j5nJU_O-pKVoMddb6_cz0HBtnxs4fLMGMJ-q7A=s512)](https://play.google.com/store/apps/details?id=es.lacaixa.mobile.android.newwapicon&hl=es&gl=US)
 
-[![Caixabank](https://play-lh.googleusercontent.com/QYPE-tE20WBsHIzueFzEdw8LtUias481ny1jLdEmAL4K3rAJNDHf5tCFXclEPDrJDw=s96)](https://play.google.com/store/apps/details?id=es.lacaixa.mobile.android.newwapicon&hl=es&gl=US)
-
-
-[![Caixabank](https://play-lh.googleusercontent.com/QYPE-tE20WBsHIzueFzEdw8LtUias481ny1jLdEmAL4K3rAJNDHf5tCFXclEPDrJDw=s96)](https://play.google.com/store/apps/details?id=es.lacaixa.mobile.android.newwapicon&hl=es&gl=US)
+#### Android:
+<p align="left">
+  <a href="https://play.google.com/store/apps/details?id=es.lacaixa.mobile.android.newwapicon&hl=es&gl=US" target="_blank">
+    <img src="https://play-lh.googleusercontent.com/_mt-ztb4JU-L-hdEA4bL3YQ-AZl7j5nJU_O-pKVoMddb6_cz0HBtnxs4fLMGMJ-q7A=s512" alt="App1" width="100" style="border-radius: 20%; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);"/a>
+  <a href="https://play.google.com/store/apps/details?id=es.juntadeandalucia.ced.senecadroid&hl=es" target="_blank">
+    <img src="https://play-lh.googleusercontent.com/ssrro4I_VVfpJOHl7lYq7MTbLsB96FccB9YH8KbmA3Aj1wfBOWl8rCLEoxhikiNY6gTp=w480-h960" alt="App1" width="100" style="border-radius: 20%; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
+  </a>
+  <a href="https://play-lh.googleusercontent.com/QYPE-tE20WBsHIzueFzEdw8LtUias481ny1jLdEmAL4K3rAJNDHf5tCFXclEPDrJDw=s96" target="_blank">
+    <img src="https://play-lh.googleusercontent.com/QYPE-tE20WBsHIzueFzEdw8LtUias481ny1jLdEmAL4K3rAJNDHf5tCFXclEPDrJDw=s96" alt="App1" width="100" style="border-radius: 20%; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);">
+  </a>
+</p>
 
 
 
