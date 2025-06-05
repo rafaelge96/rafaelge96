@@ -33,8 +33,8 @@ Hoy en día todo está conectado o puede conectarse a una tecnología para que e
 
 #### Web:
 <p align="left">
-  <a href="http://zarko.es" target="_blank" style="display:inline-block;margin-right:10px;"><img src="https://raw.githubusercontent.com/rafaelge96/rafaelge96/master/icon/web/ic_zarko.png" alt="App1" width="100" height="100" style="border-radius:20%;box-shadow:0 4px 8px rgba(0,0,0,0.2);" /></a>
-  <a href="https://marinlogistics.com" target="_blank" style="display:inline-block;margin-right:10px;"><img src="https://raw.githubusercontent.com/rafaelge96/rafaelge96/master/icon/web/ic_marin.png" alt="App2" width="100" height="100" style="border-radius:20%;box-shadow:0 4px 8px rgba(0,0,0,0.2);" /></a>
+  <a href="http://zarko.es" target="_blank" style="display:inline-block;margin-right:10px;"><img src="https://raw.githubusercontent.com/rafaelge96/rafaelge96/master/icon/web/ic_zarko.png" alt="App1" width="150" height="100" style="border-radius:20%;box-shadow:0 4px 8px rgba(0,0,0,0.2);" /></a>
+  <a href="https://marinlogistics.com" target="_blank" style="display:inline-block;margin-right:10px;"><img src="https://raw.githubusercontent.com/rafaelge96/rafaelge96/master/icon/web/ic_marin.png" alt="App2" width="230" height="100" style="border-radius:20%;box-shadow:0 4px 8px rgba(0,0,0,0.2);" /></a>
   <a href="https://www.shiseido.es/es/es/" target="_blank" style="display:inline-block;"><img src="https://raw.githubusercontent.com/rafaelge96/rafaelge96/master/icon/web/ic_shisheido.png" alt="App3" width="150" height="100" style="border-radius:20%;box-shadow:0 4px 10px rgba(0,0,0,0.3);" /></a>
 </p>
 
