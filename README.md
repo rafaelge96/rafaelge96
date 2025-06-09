@@ -42,9 +42,9 @@ Hoy en día todo está conectado o puede conectarse a una tecnología para que e
 
 #### Windows -> Java:
 <p align="left">
-    <a href="https://github.com/rafaelge96/rafaelge96/blob/main/proyectos/java/juegocartas/README.md" target="_blank" style="display:inline-block;margin-right:10px;"><img src="https://github.com/rafaelge96/rafaelge96/blob/main/proyectos/java/juegocartas/icon/ic_juego_cartas.png" alt="App1" width="100" height="100" style="border-radius:20%;box-shadow:0 4px 8px rgba(0,0,0,0.2);" /></a>
-    <a href="https://github.com/rafaelge96/rafaelge96/blob/main/proyectos/java/textoffices/README.md" target="_blank" style="display:inline-block;margin-right:10px;"><img src="https://github.com/rafaelge96/rafaelge96/blob/main/proyectos/java/textoffices/icon/ic_textoffices.png" alt="App1" width="100" height="100" style="border-radius:20%;box-shadow:0 4px 8px rgba(0,0,0,0.2);" /></a>
-    <a href="https://github.com/rafaelge96/rafaelge96/blob/main/proyectos/java/whatgram/README.md" target="_blank" style="display:inline-block;margin-right:10px;"><img src="https://github.com/rafaelge96/rafaelge96/blob/main/proyectos/java/whatgram/icon/ic_whatgram.png" alt="App1" width="100" height="100" style="border-radius:20%;box-shadow:0 4px 8px rgba(0,0,0,0.2);" /></a>
+    <a href="https://github.com/rafaelge96/rafaelge96/blob/main/proyectos/java/juegocartas/README.md" target="_blank" style="display:inline-block;margin-right:10px;"><img src="https://raw.githubusercontent.com/rafaelge96/rafaelge96/master/proyectos/java/juegocartas/icon/ic_juego_cartas.png" alt="App1" width="100" height="100" style="border-radius:20%;box-shadow:0 4px 8px rgba(0,0,0,0.2);" /></a>
+    <a href="https://github.com/rafaelge96/rafaelge96/blob/main/proyectos/java/textoffices/README.md" target="_blank" style="display:inline-block;margin-right:10px;"><img src="https://raw.githubusercontent.com/rafaelge96/rafaelge96/master/proyectos/java/textoffices/icon/ic_textoffices.png" alt="App1" width="100" height="100" style="border-radius:20%;box-shadow:0 4px 8px rgba(0,0,0,0.2);" /></a>
+    <a href="https://github.com/rafaelge96/rafaelge96/blob/main/proyectos/java/whatgram/README.md" target="_blank" style="display:inline-block;margin-right:10px;"><img src="https://raw.githubusercontent.com/rafaelge96/rafaelge96/master/proyectos/java/whatgram/icon/ic_whatgram.png" alt="App1" width="100" height="100" style="border-radius:20%;box-shadow:0 4px 8px rgba(0,0,0,0.2);" /></a>
 </p>
 
 
