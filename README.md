@@ -1,7 +1,7 @@
 # ![https://mouredev.com](https://raw.githubusercontent.com/rafaelge96/rafaelge96/master/rafaelge96_emote1-2.png) Hello world! 👋
-### Android Senior Developer
+### Android Leader Developer
 
-![https://github.com/rafaelge96](./rafaelge96_github_profile.png)
+![https://github.com/rafaelge96](./rafaelge96_github_profile.jpeg)
 
 
 #HolaMundo😄, no puedo decir que empezara en un viejo garaje de #Cupertino 🍏como Steve Wozniak🧔🏼‍♂️pero soy un gran fan y #entusiasta por la tecnología móvil y web en todos sus ámbitos.
