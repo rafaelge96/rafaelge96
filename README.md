@@ -75,6 +75,7 @@ Mi objetivo es crear entornos donde los desarrolladores puedan crecer, sentirse 
 
 ## Contacto y apoyo:
 
+[![Descargar](https://img.shields.io/badge/_Descargar-CV-blue?style=for-the-badge&logo=readthedocs&logoColor=white&labelColor=101010)](./assets/cv_rafael_gonzalez_escobar.pdf)
 [![Email](https://img.shields.io/badge/rafaelge96@hotmail.com-email_personal-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:rafaelge96@hotmail.com)
 </br>
 [![BuyMeACoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-apoya_mi_trabajo-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white&labelColor=101010)](https://www.buymeacoffee.com/mouredev)
