@@ -18,7 +18,7 @@ Hoy en día todo está conectado o puede conectarse a una tecnología para que e
 
 ## Proyectos:
 
-#### Android:
+#### Android -> Kotlin | Java
 <p align="left">
   <a href="https://play.google.com/store/apps/details?id=juntadeandalucia.ced.pasen&hl=es" target="_blank"><img src="https://raw.githubusercontent.com/rafaelge96/rafaelge96/master/proyectos/android/ic_ipasen.png" alt="App1" style="width:100px;height:100px;margin-right:10px;" /></a>
   <a href="https://play.google.com/store/apps/details?id=es.juntadeandalucia.ced.senecadroid&hl=es" target="_blank"><img src="https://raw.githubusercontent.com/rafaelge96/rafaelge96/master/proyectos/android/ic_iseneca.png" alt="App2" style="width:100px;height:100px;margin-right:10px;" /></a>
@@ -31,13 +31,20 @@ Hoy en día todo está conectado o puede conectarse a una tecnología para que e
 </p>
 
 
-#### Web:
+#### Web -> Wordpress | Prestashop | PHP
 <p align="left">
     <a href="http://www.saborespanol.co.uk" target="_blank" style="display:inline-block;margin-right:10px;"><img src="https://raw.githubusercontent.com/rafaelge96/rafaelge96/master/proyectos/web/ic_sabor_espanyol.png" alt="App1" width="150" height="100" style="border-radius:20%;box-shadow:0 4px 8px rgba(0,0,0,0.2);" /></a>
     <a href="https://github.com/rafaelge96/rafaelge96/blob/main/proyectos/web/matchmanager/README.md" target="_blank" style="display:inline-block;margin-right:10px;"><img src="https://raw.githubusercontent.com/rafaelge96/rafaelge96/master/proyectos/web/matchmanager/icon/ic_matchmanager.png" alt="App1" width="150" height="100" style="border-radius:20%;box-shadow:0 4px 8px rgba(0,0,0,0.2);" /></a>
   <a href="http://zarko.es" target="_blank" style="display:inline-block;margin-right:10px;"><img src="https://raw.githubusercontent.com/rafaelge96/rafaelge96/master/proyectos/web/ic_zarko.png" alt="App1" width="150" height="100" style="border-radius:20%;box-shadow:0 4px 8px rgba(0,0,0,0.2);" /></a>
   <a href="https://marinlogistics.com" target="_blank" style="display:inline-block;margin-right:10px;"><img src="https://raw.githubusercontent.com/rafaelge96/rafaelge96/master/proyectos/web/ic_marin.png" alt="App2" width="230" height="100" style="border-radius:20%;box-shadow:0 4px 8px rgba(0,0,0,0.2);" /></a>
   <a href="https://www.shiseido.es/es/es/" target="_blank" style="display:inline-block;"><img src="https://raw.githubusercontent.com/rafaelge96/rafaelge96/master/proyectos/web/ic_shisheido.png" alt="App3" width="150" height="100" style="border-radius:20%;box-shadow:0 4px 10px rgba(0,0,0,0.3);" /></a>
+</p>
+
+#### Windows -> Java:
+<p align="left">
+    <a href="https://github.com/rafaelge96/rafaelge96/blob/main/proyectos/java/juegocartas/README.md" target="_blank" style="display:inline-block;margin-right:10px;"><img src="https://github.com/rafaelge96/rafaelge96/blob/main/proyectos/java/juegocartas/icon/ic_juego_cartas.png" alt="App1" width="100" height="100" style="border-radius:20%;box-shadow:0 4px 8px rgba(0,0,0,0.2);" /></a>
+    <a href="https://github.com/rafaelge96/rafaelge96/blob/main/proyectos/java/textoffices/README.md" target="_blank" style="display:inline-block;margin-right:10px;"><img src="https://github.com/rafaelge96/rafaelge96/blob/main/proyectos/java/textoffices/icon/ic_textoffices.png" alt="App1" width="100" height="100" style="border-radius:20%;box-shadow:0 4px 8px rgba(0,0,0,0.2);" /></a>
+    <a href="https://github.com/rafaelge96/rafaelge96/blob/main/proyectos/java/whatgram/README.md" target="_blank" style="display:inline-block;margin-right:10px;"><img src="https://github.com/rafaelge96/rafaelge96/blob/main/proyectos/java/whatgram/icon/ic_whatgram.png" alt="App1" width="100" height="100" style="border-radius:20%;box-shadow:0 4px 8px rgba(0,0,0,0.2);" /></a>
 </p>
 
 
