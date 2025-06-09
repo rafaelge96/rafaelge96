@@ -1,34 +1,40 @@
 # ¡Hola Mundo! 😄
 
-No empecé en un garaje de Cupertino 🍏 como Steve Wozniak 🧔🏼‍♂️, pero sí con la misma pasión por crear tecnología que transforme ideas en productos reales. Soy un firme creyente en el poder de la innovación, la colaboración y el desarrollo continuo para construir soluciones móviles que marquen la diferencia.
+No empecé en un garaje de Cupertino 🍏 como *Steve Wozniak* 🧔🏼‍♂️, pero sí con la misma pasión por crear tecnología que transforme ideas en productos reales.  
+Soy un firme creyente en el poder de la innovación, la colaboración y el desarrollo continuo para construir soluciones móviles que marquen la diferencia.
 
-## 👨🏼‍💻 Sobre mí
+### 👨🏼‍💻 Sobre mí
 
-Soy Líder Técnico Android, con formación como Técnico Superior en Desarrollo de Aplicaciones Multiplataforma y Técnico en Sistemas Microinformáticos y Redes. Pero, ante todo, soy autodidacta, con más de [X años] de experiencia construyendo productos móviles desde cero, gestionando equipos y asegurando entregas de alto impacto.
+Soy **Líder Técnico Android**, con formación como **Técnico Superior en Desarrollo de Aplicaciones Multiplataforma** y **Técnico en Sistemas Microinformáticos y Redes**.  
+Pero, ante todo, soy **autodidacta**, con experiencia construyendo productos móviles desde cero, gestionando equipos y asegurando entregas de alto impacto.
 
-##📲 Qué hago
+### 📲 Qué hago
 
-Mi día a día gira en torno a liderar proyectos de desarrollo nativo en Android, guiando a equipos técnicos, tomando decisiones arquitectónicas y alineando la ejecución técnica con los objetivos de negocio.
+Mi día a día gira en torno a liderar proyectos de desarrollo **nativo en Android**, guiando a equipos técnicos, tomando decisiones arquitectónicas y alineando la ejecución técnica con los objetivos de negocio.
 
-Me especializo en:
+**#Me especializo en:**
 
-🔹 Gestión y liderazgo de equipos de desarrollo mobile
-🔹 Diseño de arquitecturas escalables y mantenibles (MVVM, Clean Architecture, Modularización)
-🔹 CI/CD, calidad de código y automatización
-🔹 Colaboración estrecha con producto, UX/UI y stakeholders
-🔹 Formación y mentoría de desarrolladores
-🧠 Cómo pienso
+- 🔹 Gestión y liderazgo de equipos de desarrollo mobile  
+- 🔹 Diseño de arquitecturas escalables y mantenibles *(MVVM, Clean Architecture, Modularización)*  
+- 🔹 CI/CD, calidad de código y automatización  
+- 🔹 Colaboración estrecha con producto, UX/UI y stakeholders  
+- 🔹 Formación y mentoría de desarrolladores  
 
-Creo que un buen líder técnico no solo domina la tecnología, sino que también inspira, escucha y facilita. Mi enfoque está en:
+### 🧠 Cómo pienso
 
-#Buscar 🔎 comprender el problema real
-#Entender 🥸 el contexto técnico y de negocio
-#Simplificar 🧮 la solución para maximizar valor
-Todo esto sin perder de vista lo más importante: el usuario final.
+Creo que un buen líder técnico no solo domina la tecnología, sino que también **inspira**, **escucha** y **facilita**.  
+Mi enfoque está en:
 
-##🏆 Mi misión
+- **#Buscar** 🔎 comprender el problema real  
+- **#Entender** 🥸 el contexto técnico y de negocio  
+- **#Simplificar** 🧮 la solución para maximizar valor  
 
-Impulsar equipos móviles hacia un nivel más alto de autonomía, excelencia técnica y alineación estratégica. Mi objetivo es crear entornos donde los desarrolladores puedan crecer, sentirse escuchados y construir productos de calidad que escalen y evolucionen.
+Todo esto sin perder de vista lo más importante: el **usuario final**.
+
+### 🏆 Mi misión
+
+Impulsar equipos móviles hacia un nivel más alto de autonomía, excelencia técnica y alineación estratégica.  
+Mi objetivo es crear entornos donde los desarrolladores puedan crecer, sentirse escuchados y construir productos de calidad que escalen y evolucionen.
 
 
 > 👥 [Apple teacher]([https://mvp.microsoft.com/es-es/PublicProfile/5004970](https://education.apple.com/learning-center/T040412A-es_ES))
