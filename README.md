@@ -37,8 +37,6 @@ Impulsar equipos móviles hacia un nivel más alto de autonomía, excelencia té
 Mi objetivo es crear entornos donde los desarrolladores puedan crecer, sentirse escuchados y construir productos de calidad que escalen y evolucionen.
 
 
-> 👥 [Apple teacher]([https://mvp.microsoft.com/es-es/PublicProfile/5004970](https://education.apple.com/learning-center/T040412A-es_ES))
-
 ## Portafolio de Proyectos:
 
 #### Android -> Kotlin | Java
