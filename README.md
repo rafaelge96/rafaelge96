@@ -25,14 +25,15 @@ Hoy en día todo está conectado o puede conectarse a una tecnología para que e
   <a href="https://play.google.com/store/apps/details?id=es.lacaixa.mobile.android.newwapicon&hl=es&gl=US" target="_blank"><img src="https://raw.githubusercontent.com/rafaelge96/rafaelge96/master/icon/android/ic_caixabank.png" alt="App3" style="width:100px;height:100px;margin-right:10px;" /></a>
   <a href="https://play.google.com/store/apps/details?id=com.damm.dammbars&hl=es" target="_blank"><img src="https://raw.githubusercontent.com/rafaelge96/rafaelge96/master/icon/android/ic_dammbar.png" alt="App4" style="width:100px;height:100px;margin-right:10px;" /></a>
   <a href="https://play.google.com/store/apps/details?id=es.asseco.ree&hl=es" target="_blank"><img src="https://raw.githubusercontent.com/rafaelge96/rafaelge96/master/icon/android/ic_redos.png" alt="App5" style="width:100px;height:100px;margin-right:10px;" /></a>
-  <a href="#" target="_blank"><img src="https://raw.githubusercontent.com/rafaelge96/rafaelge96/master/icon/android/ic_constitucion.png" alt="App6" style="width:100px;height:100px;margin-right:10px;" /></a>
-  <a href="#" target="_blank"><img src="https://raw.githubusercontent.com/rafaelge96/rafaelge96/master/icon/android/ic_buscanimal.png" alt="App7" style="width:100px;height:100px;margin-right:10px;" /></a>
-  <a href="#" target="_blank"><img src="https://raw.githubusercontent.com/rafaelge96/rafaelge96/master/icon/android/ic_paint.png" alt="App8" style="width:100px;height:100px;margin-right:10px;" /></a>
+  <a href="https://github.com/rafaelge96/constitucionespanyola/blob/main/README.md" target="_blank"><img src="https://raw.githubusercontent.com/rafaelge96/rafaelge96/master/icon/android/ic_constitucion.png" alt="App6" style="width:100px;height:100px;margin-right:10px;" /></a>
+  <a href="https://github.com/rafaelge96/buscanimal/blob/main/README.md" target="_blank"><img src="https://raw.githubusercontent.com/rafaelge96/rafaelge96/master/icon/android/ic_buscanimal.png" alt="App7" style="width:100px;height:100px;margin-right:10px;" /></a>
+  <a href="https://github.com/rafaelge96/paint/blob/main/README.md" target="_blank"><img src="https://raw.githubusercontent.com/rafaelge96/rafaelge96/master/icon/android/ic_paint.png" alt="App8" style="width:100px;height:100px;margin-right:10px;" /></a>
 </p>
 
 
 #### Web:
 <p align="left">
+    <a href="http://www.saborespanol.co.uk" target="_blank" style="display:inline-block;margin-right:10px;"><img src="https://raw.githubusercontent.com/rafaelge96/rafaelge96/master/icon/web/ic_sabor_espanyol.png" alt="App1" width="150" height="100" style="border-radius:20%;box-shadow:0 4px 8px rgba(0,0,0,0.2);" /></a>
   <a href="http://zarko.es" target="_blank" style="display:inline-block;margin-right:10px;"><img src="https://raw.githubusercontent.com/rafaelge96/rafaelge96/master/icon/web/ic_zarko.png" alt="App1" width="150" height="100" style="border-radius:20%;box-shadow:0 4px 8px rgba(0,0,0,0.2);" /></a>
   <a href="https://marinlogistics.com" target="_blank" style="display:inline-block;margin-right:10px;"><img src="https://raw.githubusercontent.com/rafaelge96/rafaelge96/master/icon/web/ic_marin.png" alt="App2" width="230" height="100" style="border-radius:20%;box-shadow:0 4px 8px rgba(0,0,0,0.2);" /></a>
   <a href="https://www.shiseido.es/es/es/" target="_blank" style="display:inline-block;"><img src="https://raw.githubusercontent.com/rafaelge96/rafaelge96/master/icon/web/ic_shisheido.png" alt="App3" width="150" height="100" style="border-radius:20%;box-shadow:0 4px 10px rgba(0,0,0,0.3);" /></a>
