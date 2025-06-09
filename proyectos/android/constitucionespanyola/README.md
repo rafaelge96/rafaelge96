@@ -15,9 +15,8 @@ Esta aplicación ofrece un complemento ideal de repaso y para su estudio que te 
 
 <b>Nota:</b> Las <em>disposiciones adicionales</em>, <em>disposiciones transitorias</em>, <em>disposiciones derogatoria</em> y <em>disposición final</em>, no se encuentran añadida en la aplicación.
 
-
-![#](https://github.com/rafaelge96/constitucionespanyola/blob/main/captura_ejemplo_1.png)
-![#](https://github.com/rafaelge96/constitucionespanyola/blob/main/captura_ejemplo_2.png)
-![#](https://github.com/rafaelge96/constitucionespanyola/blob/main/captura_ejemplo_3.png)
-![#](https://github.com/rafaelge96/constitucionespanyola/blob/main/captura_ejemplo_4.png)
-![#](https://github.com/rafaelge96/constitucionespanyola/blob/main/captura_ejemplo_5.png)
+![#](https://github.com/rafaelge96/rafaelge96/blob/main/proyectos/android/constitucionespanyola/captura_ejemplo_1.png)
+![#](https://github.com/rafaelge96/rafaelge96/blob/main/proyectos/android/constitucionespanyola/captura_ejemplo_2.png)
+![#](https://github.com/rafaelge96/rafaelge96/blob/main/proyectos/android/constitucionespanyola/captura_ejemplo_3.png)
+![#](https://github.com/rafaelge96/rafaelge96/blob/main/proyectos/android/constitucionespanyola/captura_ejemplo_4.png)
+![#](https://github.com/rafaelge96/rafaelge96/blob/main/proyectos/android/constitucionespanyola/captura_ejemplo_5.png)
