@@ -9,11 +9,10 @@ Tenemos dos tipos de pulsaciones, la pulsación corta y larga, la pulsación cor
 
 Perderemos cuando el cazador nos encuentre o cuando hagamos una pulsación larga y no se encuentre nuestro personaje.
 
-
-![#](https://github.com/rafaelge96/buscanimal/blob/main/captura_ejemplo_1.jpg)
-![#](https://github.com/rafaelge96/buscanimal/blob/main/captura_ejemplo_2.jpg)
-![#](https://github.com/rafaelge96/buscanimal/blob/main/captura_ejemplo_3.jpg)
-![#](https://github.com/rafaelge96/buscanimal/blob/main/captura_ejemplo_4.jpg)
-![#](https://github.com/rafaelge96/buscanimal/blob/main/captura_ejemplo_5.jpg)
-![#](https://github.com/rafaelge96/buscanimal/blob/main/captura_ejemplo_6.jpg)
-![#](https://github.com/rafaelge96/buscanimal/blob/main/captura_ejemplo_7.jpg)
+![#](https://github.com/rafaelge96/rafaelge96/blob/main/proyectos/android/buscanimal/captura_ejemplo_1.jpg)
+![#](https://github.com/rafaelge96/rafaelge96/blob/main/proyectos/android/buscanimal/captura_ejemplo_2.jpg)
+![#](https://github.com/rafaelge96/rafaelge96/blob/main/proyectos/android/buscanimal/captura_ejemplo_3.jpg)
+![#](https://github.com/rafaelge96/rafaelge96/blob/main/proyectos/android/buscanimal/captura_ejemplo_4.jpg)
+![#](https://github.com/rafaelge96/rafaelge96/blob/main/proyectos/android/buscanimal/captura_ejemplo_5.jpg)
+![#](https://github.com/rafaelge96/rafaelge96/blob/main/proyectos/android/buscanimal/captura_ejemplo_6.jpg)
+![#](https://github.com/rafaelge96/rafaelge96/blob/main/proyectos/android/buscanimal/captura_ejemplo_7.jpg)
