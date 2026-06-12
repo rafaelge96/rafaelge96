@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 64" role="img" aria-label="Entidades para las que he trabajado: Junta de Andalucía, CaixaBank, Red Eléctrica de España y Damm">
+  <defs>
+    <clipPath id="band"><rect width="1280" height="64" rx="14"/></clipPath>
+  </defs>
+  <rect width="1280" height="64" rx="14" fill="#0a1626"/>
+  <g clip-path="url(#band)" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="22" font-weight="500" letter-spacing="2">
+    <g>
+      <g>
+        <text x="0" y="40" fill="#eaf6f8">JUNTA DE ANDALUCÍA</text>
+        <text x="300" y="40" fill="#3fd0e0">✦</text>
+        <text x="345" y="40" fill="#eaf6f8">CAIXABANK</text>
+        <text x="520" y="40" fill="#3fd0e0">✦</text>
+        <text x="565" y="40" fill="#eaf6f8">RED ELÉCTRICA DE ESPAÑA</text>
+        <text x="950" y="40" fill="#3fd0e0">✦</text>
+        <text x="995" y="40" fill="#eaf6f8">DAMM</text>
+        <text x="1100" y="40" fill="#3fd0e0">✦</text>
+      </g>
+      <g transform="translate(1145,0)">
+        <text x="0" y="40" fill="#eaf6f8">JUNTA DE ANDALUCÍA</text>
+        <text x="300" y="40" fill="#3fd0e0">✦</text>
+        <text x="345" y="40" fill="#eaf6f8">CAIXABANK</text>
+        <text x="520" y="40" fill="#3fd0e0">✦</text>
+        <text x="565" y="40" fill="#eaf6f8">RED ELÉCTRICA DE ESPAÑA</text>
+        <text x="950" y="40" fill="#3fd0e0">✦</text>
+        <text x="995" y="40" fill="#eaf6f8">DAMM</text>
+        <text x="1100" y="40" fill="#3fd0e0">✦</text>
+      </g>
+      <g transform="translate(2290,0)">
+        <text x="0" y="40" fill="#eaf6f8">JUNTA DE ANDALUCÍA</text>
+        <text x="300" y="40" fill="#3fd0e0">✦</text>
+        <text x="345" y="40" fill="#eaf6f8">CAIXABANK</text>
+        <text x="520" y="40" fill="#3fd0e0">✦</text>
+        <text x="565" y="40" fill="#eaf6f8">RED ELÉCTRICA DE ESPAÑA</text>
+        <text x="950" y="40" fill="#3fd0e0">✦</text>
+        <text x="995" y="40" fill="#eaf6f8">DAMM</text>
+        <text x="1100" y="40" fill="#3fd0e0">✦</text>
+      </g>
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-1145 0" dur="26s" repeatCount="indefinite"/>
+    </g>
+  </g>
+</svg>
