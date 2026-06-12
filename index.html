@@ -1,0 +1,365 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Rafael González Escobar — Tech Lead Android</title>
+<meta name="description" content="Tech Lead Android y fundador de Caelyn Tech. Apps nativas y multiplataforma con IA, desde Córdoba para el mundo." />
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%230a1626'/%3E%3Ctext x='32' y='44' text-anchor='middle' font-family='Helvetica,Arial' font-size='34' font-weight='600' fill='%233fd0e0'%3ER%3C/text%3E%3C/svg%3E" />
+<style>
+:root {
+  --bg: #0a1626;
+  --surface: #11202f;
+  --surface-2: #12283a;
+  --text: #eaf6f8;
+  --muted: #8aa0ad;
+  --line: rgba(160, 200, 220, 0.14);
+  --accent: #3fd0e0;
+  --max: 980px;
+}
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; scroll-behavior: smooth; }
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  line-height: 1.65;
+  -webkit-font-smoothing: antialiased;
+}
+a { color: inherit; }
+img { -webkit-user-drag: none; user-select: none; -webkit-user-select: none; }
+
+.sky { position: fixed; inset: 0; overflow: hidden; pointer-events: none; z-index: 0; }
+.stars { position: absolute; inset: -60px; will-change: transform; }
+.stars i { position: absolute; border-radius: 50%; background: #cfeef3; animation: twinkle 4.5s ease-in-out infinite; }
+@keyframes twinkle { 0%,100% { filter: brightness(0.7); } 50% { filter: brightness(1.6); } }
+.shooting {
+  position: absolute; top: 16%; left: -12%; width: 130px; height: 2px; border-radius: 2px;
+  background: linear-gradient(90deg, transparent, #cfeef3); opacity: 0;
+  animation: shoot 11s linear infinite 3s;
+}
+@keyframes shoot {
+  0% { transform: translate(0,0) rotate(14deg); opacity: 0; }
+  2% { opacity: 0.9; }
+  7% { transform: translate(120vw, 30vh) rotate(14deg); opacity: 0; }
+  100% { transform: translate(120vw, 30vh) rotate(14deg); opacity: 0; }
+}
+.horizon-glow {
+  position: absolute; left: 50%; bottom: -32vh; transform: translateX(-50%);
+  width: 150vw; height: 62vh;
+  background: radial-gradient(ellipse 50% 50% at 50% 50%, rgba(63,208,224,0.13), transparent 65%);
+}
+
+.site-header {
+  position: sticky; top: 0; z-index: 10;
+  backdrop-filter: blur(14px); -webkit-backdrop-filter: blur(14px);
+  background: rgba(10,22,38,0.6); border-bottom: 0.5px solid var(--line);
+}
+.header-in {
+  max-width: var(--max); margin: 0 auto; padding: 15px 24px;
+  display: flex; align-items: center; gap: 12px;
+}
+.brand { display: inline-flex; align-items: center; gap: 10px; text-decoration: none; font-weight: 500; letter-spacing: 0.04em; }
+.brand svg { width: 26px; height: 26px; }
+.header-links { margin-left: auto; display: flex; gap: 8px; }
+.header-links a {
+  font-size: 13px; letter-spacing: 0.04em; text-decoration: none; color: var(--muted);
+  border: 1px solid var(--line); border-radius: 999px; padding: 6px 14px;
+  transition: color 0.15s ease, border-color 0.15s ease;
+}
+.header-links a:hover { color: var(--text); border-color: var(--accent); }
+
+main { position: relative; z-index: 1; max-width: var(--max); margin: 0 auto; padding: 0 24px; }
+
+.hero { padding: 96px 0 88px; text-align: center; }
+.hero > * { animation: fade-up 0.8s cubic-bezier(0.2,0.7,0.2,1) backwards; }
+.hero > *:nth-child(1) { animation-delay: 0.05s; }
+.hero > *:nth-child(2) { animation-delay: 0.18s; }
+.hero > *:nth-child(3) { animation-delay: 0.32s; }
+.hero > *:nth-child(4) { animation-delay: 0.48s; }
+@keyframes fade-up { from { opacity: 0; transform: translateY(24px); } to { opacity: 1; transform: none; } }
+.eyebrow {
+  margin: 0 0 18px; font-size: 13px; font-weight: 500; letter-spacing: 0.26em;
+  text-transform: uppercase; color: var(--accent);
+}
+.hero h1 {
+  margin: 0; font-size: clamp(40px, 7.2vw, 78px); line-height: 1.08;
+  font-weight: 600; letter-spacing: -0.01em; max-width: 880px; margin-inline: auto;
+  background: linear-gradient(180deg, #ffffff 30%, #9fd9e3);
+  -webkit-background-clip: text; background-clip: text; color: transparent;
+}
+.hero p { margin: 22px auto 0; font-size: 19px; color: var(--muted); max-width: 640px; }
+.hero-ctas { margin-top: 36px; display: flex; gap: 12px; justify-content: center; flex-wrap: wrap; }
+.btn {
+  display: inline-block; padding: 12px 24px; font-size: 14px; letter-spacing: 0.04em;
+  text-decoration: none; border-radius: 999px; transition: transform 0.2s ease, border-color 0.2s ease, background 0.2s ease;
+}
+.btn-primary { background: var(--accent); color: #06222a; font-weight: 600; }
+.btn-primary:hover { transform: translateY(-2px); }
+.btn-ghost { border: 1px solid var(--line); color: var(--text); background: rgba(17,32,47,0.5); }
+.btn-ghost:hover { border-color: var(--accent); transform: translateY(-2px); }
+
+.ticker {
+  position: relative; z-index: 1; width: 100vw; margin: 0 0 0 calc(50% - 50vw);
+  overflow: hidden; border-top: 0.5px solid var(--line); border-bottom: 0.5px solid var(--line);
+  padding: 16px 0; background: rgba(10,22,38,0.45);
+}
+.ticker-track { display: flex; width: max-content; animation: tick 26s linear infinite; will-change: transform; }
+.ticker-half { display: inline-flex; align-items: center; gap: 36px; padding-right: 36px; flex: none; }
+.ticker span { font-size: 14px; font-weight: 500; letter-spacing: 0.22em; text-transform: uppercase; color: var(--muted); white-space: nowrap; }
+.ticker b { color: var(--accent); font-weight: 400; font-size: 12px; }
+.ticker:hover .ticker-track { animation-play-state: paused; }
+@keyframes tick { to { transform: translateX(-50%); } }
+
+section { padding: 80px 0 10px; }
+.sec-eyebrow { margin: 0 0 8px; font-size: 12px; font-weight: 500; letter-spacing: 0.28em; text-transform: uppercase; color: var(--accent); }
+section h2 { margin: 0 0 10px; font-size: clamp(26px, 3.6vw, 38px); font-weight: 600; }
+.sec-intro { margin: 0 0 36px; color: var(--muted); font-size: 17px; max-width: 620px; }
+
+.cards { display: grid; grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)); gap: 14px; }
+.card {
+  display: flex; flex-direction: column; gap: 12px; padding: 22px;
+  background: rgba(17,32,47,0.55); backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px);
+  border: 0.5px solid var(--line); border-radius: 18px; text-decoration: none; color: var(--text);
+  transition: border-color 0.2s ease, transform 0.2s ease, box-shadow 0.2s ease;
+  will-change: transform;
+}
+.card:hover { border-color: var(--accent); box-shadow: 0 12px 38px rgba(63,208,224,0.12); }
+.card img { width: 56px; height: 56px; }
+.card h3 { margin: 0; font-size: 18px; font-weight: 600; }
+.card p { margin: 0; font-size: 14px; color: var(--muted); flex: 1; }
+.badge {
+  align-self: flex-start; font-size: 12px; font-weight: 500; letter-spacing: 0.05em;
+  padding: 4px 12px; border-radius: 999px;
+}
+.badge-live { color: #06222a; background: var(--accent); }
+.badge-soon { color: var(--muted); border: 1px solid var(--line); }
+
+.logos { display: flex; gap: 18px; flex-wrap: wrap; align-items: center; margin-bottom: 8px; }
+.logos img { width: 58px; height: 58px; border-radius: 14px; border: 1px solid var(--line); transition: transform 0.2s ease; }
+.logos a:hover img { transform: translateY(-3px) scale(1.05); }
+
+.chips { display: flex; gap: 10px; flex-wrap: wrap; }
+.chips span {
+  font-size: 14px; padding: 8px 16px; border-radius: 999px;
+  border: 1px solid var(--line); background: rgba(17,32,47,0.5); color: var(--text);
+}
+
+.contact-box {
+  margin-top: 8px; padding: 40px 28px; text-align: center;
+  background: rgba(17,32,47,0.55); border: 0.5px solid var(--line); border-radius: 22px;
+}
+.contact-box h2 { font-size: clamp(24px, 3vw, 32px); }
+.contact-box p { color: var(--muted); margin: 8px 0 26px; }
+
+.reveal { opacity: 0; transform: translateY(20px); transition: opacity 0.6s ease, transform 0.6s ease; }
+.reveal.in { opacity: 1; transform: none; }
+.cards .reveal:nth-child(2) { transition-delay: 0.08s; }
+.cards .reveal:nth-child(3) { transition-delay: 0.16s; }
+.cards .reveal:nth-child(4) { transition-delay: 0.24s; }
+
+.site-footer {
+  position: relative; z-index: 1; max-width: var(--max); margin: 64px auto 0;
+  padding: 32px 24px 56px; border-top: 0.5px solid var(--line);
+  color: var(--muted); font-size: 14px; display: flex; align-items: center; gap: 10px; flex-wrap: wrap;
+}
+.site-footer a { text-decoration: none; }
+.site-footer a:hover { color: var(--accent); }
+
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  .stars i, .shooting, .hero > *, .ticker-track { animation: none; }
+  .reveal { opacity: 1; transform: none; transition: none; }
+}
+@media (max-width: 560px) {
+  .hero { padding: 64px 0 60px; }
+  section { padding: 56px 0 8px; }
+}
+</style>
+</head>
+<body>
+<div class="sky" aria-hidden="true">
+  <div class="stars" id="l1"></div>
+  <div class="stars" id="l2"></div>
+  <div class="stars" id="l3"></div>
+  <div class="shooting"></div>
+  <div class="horizon-glow"></div>
+</div>
+
+<header class="site-header">
+  <div class="header-in">
+    <a class="brand" href="./">
+      <svg viewBox="0 0 64 64" aria-hidden="true">
+        <path d="M45.4 18.6 A19 19 0 1 0 45.4 45.4" fill="none" stroke-width="8" stroke-linecap="round" style="stroke: var(--accent)" />
+        <circle cx="51" cy="32" r="3.6" fill="currentColor" />
+      </svg>
+      rafaelge96
+    </a>
+    <nav class="header-links">
+      <a href="https://github.com/rafaelge96">GitHub</a>
+      <a href="https://www.linkedin.com/in/rafaelge96">LinkedIn</a>
+    </nav>
+  </div>
+</header>
+
+<main>
+  <section class="hero" style="padding-bottom: 72px;">
+    <p class="eyebrow">Rafael González Escobar · Tech Lead Android · Córdoba</p>
+    <h1>Construyo apps móviles desde Córdoba para el mundo.</h1>
+    <p>Lidero equipos de desarrollo Android en banca, administración pública y gran consumo. Y como fundador de Caelyn Tech, publico mis propios productos: apps nativas y multiplataforma con IA.</p>
+    <div class="hero-ctas">
+      <a class="btn btn-primary" href="#productos">Ver proyectos ↓</a>
+      <a class="btn btn-ghost" href="assets/cv_rafael_gonzalez_escobar.pdf">Descargar CV</a>
+    </div>
+  </section>
+
+  <div class="ticker" aria-hidden="true">
+    <div class="ticker-track">
+      <div class="ticker-half">
+        <span>Junta de Andalucía</span><b>✦</b><span>CaixaBank</span><b>✦</b><span>Red Eléctrica de España</span><b>✦</b><span>Damm</span><b>✦</b>
+      </div>
+      <div class="ticker-half">
+        <span>Junta de Andalucía</span><b>✦</b><span>CaixaBank</span><b>✦</b><span>Red Eléctrica de España</span><b>✦</b><span>Damm</span><b>✦</b>
+      </div>
+    </div>
+  </div>
+
+  <section id="productos">
+    <p class="sec-eyebrow">Caelyn Tech</p>
+    <h2>Productos propios</h2>
+    <p class="sec-intro">Apps que diseño, desarrollo y publico bajo mi propia marca.</p>
+    <div class="cards">
+      <a class="card reveal tilt" href="https://play.google.com/store/apps/details?id=com.rafaelge.oremus">
+        <img src="assets/apps/oremus.svg" alt="" />
+        <h3>Oremus</h3>
+        <p>Oraciones y devocionario diario. Kotlin · Compose.</p>
+        <span class="badge badge-live">Disponible en Google Play</span>
+      </a>
+      <span class="card reveal tilt">
+        <img src="assets/apps/constitucion.svg" alt="" />
+        <h3>La Constitución</h3>
+        <p>Estudia la Constitución Española con tests e IA. KMP · Compose.</p>
+        <span class="badge badge-soon">Próximamente</span>
+      </span>
+      <span class="card reveal tilt">
+        <img src="assets/apps/auxiliar-administrativo.svg" alt="" />
+        <h3>Auxiliar Administrativo</h3>
+        <p>Preparación de oposiciones con IA. KMP · Compose.</p>
+        <span class="badge badge-soon">Próximamente</span>
+      </span>
+      <a class="card reveal tilt" href="https://rafaelge96.github.io/caelyn-tech/">
+        <img src="assets/apps/caelyn.svg" alt="" />
+        <h3>Caelyn Tech</h3>
+        <p>La marca: web, identidad y centro de privacidad de las apps.</p>
+        <span class="badge badge-live">Ver web</span>
+      </a>
+    </div>
+  </section>
+
+  <section>
+    <p class="sec-eyebrow">Trayectoria</p>
+    <h2>He construido para</h2>
+    <p class="sec-intro">Apps con millones de usuarios en banca, educación pública, energía y gran consumo.</p>
+    <div class="logos reveal">
+      <a href="https://play.google.com/store/apps/details?id=es.lacaixa.mobile.android.newwapicon&hl=es"><img src="proyectos/android/ic_caixabank.png" alt="CaixaBank" /></a>
+      <a href="https://play.google.com/store/apps/details?id=juntadeandalucia.ced.pasen&hl=es"><img src="proyectos/android/ic_ipasen.png" alt="iPasen — Junta de Andalucía" /></a>
+      <a href="https://play.google.com/store/apps/details?id=es.juntadeandalucia.ced.senecadroid&hl=es"><img src="proyectos/android/ic_iseneca.png" alt="iSéneca — Junta de Andalucía" /></a>
+      <a href="https://play.google.com/store/apps/details?id=es.asseco.ree&hl=es"><img src="proyectos/android/ic_redos.png" alt="Red Eléctrica de España" /></a>
+      <a href="https://play.google.com/store/apps/details?id=com.damm.dammbars&hl=es"><img src="proyectos/android/ic_dammbar.png" alt="Damm" /></a>
+    </div>
+  </section>
+
+  <section>
+    <p class="sec-eyebrow">Stack</p>
+    <h2>Con qué trabajo</h2>
+    <div class="chips reveal">
+      <span>Kotlin</span><span>Kotlin Multiplatform</span><span>Jetpack Compose</span><span>SwiftUI</span><span>Java</span><span>Firebase</span><span>IA aplicada</span><span>CI/CD</span><span>Gradle</span><span>Clean Architecture</span>
+    </div>
+  </section>
+
+  <section>
+    <div class="contact-box reveal">
+      <h2>¿Hablamos?</h2>
+      <p>Disponible para colaboraciones, consultoría móvil y nuevos retos.</p>
+      <div class="hero-ctas">
+        <a class="btn btn-primary" href="mailto:rafaelge96@hotmail.com">rafaelge96@hotmail.com</a>
+        <a class="btn btn-ghost" href="https://www.linkedin.com/in/rafaelge96">LinkedIn</a>
+      </div>
+    </div>
+  </section>
+</main>
+
+<footer class="site-footer">
+  <span>© <span id="year"></span> Rafael González Escobar</span>
+  <span aria-hidden="true">·</span>
+  <a href="https://rafaelge96.github.io/caelyn-tech/">Fundador de Caelyn Tech</a>
+</footer>
+
+<script>
+document.getElementById('year').textContent = new Date().getFullYear();
+document.addEventListener('contextmenu', function (e) { e.preventDefault(); });
+document.addEventListener('dragstart', function (e) { if (e.target && e.target.tagName === 'IMG') e.preventDefault(); });
+
+var reduceMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+
+function makeStars(el, n, size) {
+  var html = '';
+  for (var i = 0; i < n; i++) {
+    var x = (Math.random() * 100).toFixed(2);
+    var y = (Math.random() * 100).toFixed(2);
+    var s = (size * (0.6 + Math.random() * 0.8)).toFixed(2);
+    var d = (Math.random() * 5).toFixed(2);
+    var o = (0.35 + Math.random() * 0.55).toFixed(2);
+    html += '<i style="left:' + x + '%;top:' + y + '%;width:' + s + 'px;height:' + s +
+            'px;opacity:' + o + ';animation-delay:' + d + 's"></i>';
+  }
+  el.innerHTML = html;
+}
+var l1 = document.getElementById('l1');
+var l2 = document.getElementById('l2');
+var l3 = document.getElementById('l3');
+makeStars(l1, 70, 1.6);
+makeStars(l2, 40, 2.4);
+makeStars(l3, 16, 3.4);
+
+if (!reduceMotion) {
+  var sy = 0, mx = 0, my = 0, raf = null;
+  function tick() {
+    if (raf) return;
+    raf = requestAnimationFrame(function () {
+      raf = null;
+      l1.style.transform = 'translate3d(' + (mx * -8) + 'px,' + (sy * 0.05 + my * -6) + 'px,0)';
+      l2.style.transform = 'translate3d(' + (mx * -18) + 'px,' + (sy * 0.11 + my * -14) + 'px,0)';
+      l3.style.transform = 'translate3d(' + (mx * -30) + 'px,' + (sy * 0.18 + my * -24) + 'px,0)';
+    });
+  }
+  window.addEventListener('scroll', function () { sy = window.scrollY; tick(); }, { passive: true });
+  window.addEventListener('mousemove', function (e) {
+    mx = (e.clientX / window.innerWidth - 0.5) * 2;
+    my = (e.clientY / window.innerHeight - 0.5) * 2;
+    tick();
+  });
+}
+
+var obs = new IntersectionObserver(function (entries) {
+  entries.forEach(function (en) {
+    if (en.isIntersecting) { en.target.classList.add('in'); obs.unobserve(en.target); }
+  });
+}, { threshold: 0.15 });
+document.querySelectorAll('.reveal').forEach(function (el) { obs.observe(el); });
+
+if (!reduceMotion && window.matchMedia('(pointer: fine)').matches) {
+  document.querySelectorAll('.tilt').forEach(function (card) {
+    card.addEventListener('mousemove', function (e) {
+      var r = card.getBoundingClientRect();
+      var px = (e.clientX - r.left) / r.width - 0.5;
+      var py = (e.clientY - r.top) / r.height - 0.5;
+      card.style.transform = 'perspective(700px) rotateX(' + (py * -6) + 'deg) rotateY(' + (px * 8) + 'deg) translateY(-2px)';
+    });
+    card.addEventListener('mouseleave', function () { card.style.transform = ''; });
+  });
+}
+</script>
+</body>
+</html>
