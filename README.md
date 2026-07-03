@@ -4,10 +4,10 @@
 
 ## Hola, soy Rafa 👋
 
-**Senior Software Engineer** y fundador de **[Caelyn Tech](https://rafaelge96.github.io/caelyn-tech/)**. De día lidero equipos móviles en productos de banca, administración pública y gran consumo; el resto del tiempo construyo mis propios productos: apps nativas y multiplataforma con IA integrada, desde Córdoba para el mundo. 🛰️
+**Senior Software Engineer** y fundador de **[Caelyn Tech](https://rafaelge96.github.io/caelyn-tech/)**. De día desarrollo apps móviles en productos de banca, administración pública y gran consumo; el resto del tiempo construyo mis propios productos: apps nativas y multiplataforma con IA integrada, desde Córdoba para el mundo. 🛰️
 
 - 🚀 **Ahora**: publicando las apps de Caelyn Tech — Kotlin Multiplatform + IA
-- 🎯 **Especialidad**: arquitecturas escalables (MVVM, Clean Architecture, modularización), CI/CD y liderazgo técnico
+- 🎯 **Especialidad**: arquitecturas escalables (MVVM, Clean Architecture, modularización), CI/CD y buenas prácticas
 - 🧭 **Cómo trabajo**: entender el problema real, simplificar la solución y no perder nunca de vista al usuario
 
 ## 🛰️ Productos propios
@@ -15,8 +15,9 @@
 | | Proyecto | Stack | Estado |
 |:---:|---|---|:---:|
 | <img src="assets/apps/oremus.svg" width="44" alt=""/> | **Oremus** — oraciones y devocionario diario | Kotlin · Compose | [![Google Play](https://img.shields.io/badge/Google_Play-Disponible-3fd0e0?style=flat-square&logo=googleplay&logoColor=white&labelColor=0a1626)](https://play.google.com/store/apps/details?id=com.rafaelge.oremus) |
-| <img src="assets/apps/constitucion.svg" width="44" alt=""/> | **La Constitución** — estudia la CE con tests e IA | KMP · Compose · IA | ![Próximamente](https://img.shields.io/badge/Pr%C3%B3ximamente-2026-8aa0ad?style=flat-square&labelColor=0a1626) |
-| <img src="assets/apps/auxiliar-administrativo.svg" width="44" alt=""/> | **Auxiliar Administrativo** — preparación de oposiciones | KMP · Compose · IA | ![Próximamente](https://img.shields.io/badge/Pr%C3%B3ximamente-2026-8aa0ad?style=flat-square&labelColor=0a1626) |
+| <img src="assets/apps/constitucion.png" width="44" alt=""/> | **La Constitución** — estudia la CE con tests e IA | KMP · Compose · IA | [![Google Play](https://img.shields.io/badge/Google_Play-Disponible-3fd0e0?style=flat-square&logo=googleplay&logoColor=white&labelColor=0a1626)](https://play.google.com/store/apps/details?id=com.rafaelge.laconstitucion) |
+| <img src="assets/apps/auxiliar-administrativo.png" width="44" alt=""/> | **Auxiliar Administrativo** — preparación de oposiciones | KMP · Compose · IA | [![Google Play](https://img.shields.io/badge/Google_Play-Disponible-3fd0e0?style=flat-square&logo=googleplay&logoColor=white&labelColor=0a1626)](https://play.google.com/store/apps/details?id=com.rafaelge.auxadministrativo) |
+| <img src="assets/apps/administrativo-estado.png" width="44" alt=""/> | **Administrativo del Estado** — preparación de oposiciones | KMP · Compose · IA | [![Google Play](https://img.shields.io/badge/Google_Play-Disponible-3fd0e0?style=flat-square&logo=googleplay&logoColor=white&labelColor=0a1626)](https://play.google.com/store/apps/details?id=com.rafaelge.administrativoestado) |
 | <img src="assets/apps/caelyn.svg" width="44" alt=""/> | **Caelyn Tech** — marca, web y centro de privacidad | HTML · CSS · JS | [![Web](https://img.shields.io/badge/Ver-web-3fd0e0?style=flat-square&labelColor=0a1626)](https://rafaelge96.github.io/caelyn-tech/) [![Repo](https://img.shields.io/badge/GitHub-repo-8aa0ad?style=flat-square&logo=github&labelColor=0a1626)](https://github.com/rafaelge96/caelyn-tech) |
 
 ## 💼 He construido para
