@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Rafael González Escobar — Tech Lead Android y fundador de Caelyn Tech" width="100%"/>
+  <img src="assets/banner.svg" alt="Rafael González Escobar — Senior Software Engineer y fundador de Caelyn Tech" width="100%"/>
 </p>
 
 ## Hola, soy Rafa 👋
 
-**Tech Lead Android** y fundador de **[Caelyn Tech](https://rafaelge96.github.io/caelyn-tech/)**. De día lidero equipos móviles en productos de banca, administración pública y gran consumo; el resto del tiempo construyo mis propios productos: apps nativas y multiplataforma con IA integrada, desde Córdoba para el mundo. 🛰️
+**Senior Software Engineer** y fundador de **[Caelyn Tech](https://rafaelge96.github.io/caelyn-tech/)**. De día lidero equipos móviles en productos de banca, administración pública y gran consumo; el resto del tiempo construyo mis propios productos: apps nativas y multiplataforma con IA integrada, desde Córdoba para el mundo. 🛰️
 
 - 🚀 **Ahora**: publicando las apps de Caelyn Tech — Kotlin Multiplatform + IA
 - 🎯 **Especialidad**: arquitecturas escalables (MVVM, Clean Architecture, modularización), CI/CD y liderazgo técnico

@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 320" role="img" aria-label="Rafael González Escobar — Tech Lead Android y fundador de Caelyn Tech">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 320" role="img" aria-label="Rafael González Escobar — Senior Software Engineer y fundador de Caelyn Tech">
   <defs>
     <radialGradient id="sky" cx="50%" cy="60%" r="85%">
       <stop offset="0%" stop-color="#0f2740"/>
@@ -50,6 +50,6 @@
   </g>
 
   <text x="330" y="152" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="56" font-weight="600" letter-spacing="1" fill="url(#title)">Rafael González Escobar</text>
-  <text x="332" y="200" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="25" font-weight="500" fill="#3fd0e0">Tech Lead Android · Fundador de Caelyn Tech</text>
+  <text x="332" y="200" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="25" font-weight="500" fill="#3fd0e0">Senior Software Engineer · Fundador de Caelyn Tech</text>
   <text x="332" y="240" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="19" fill="#8aa0ad">Kotlin Multiplatform · Jetpack Compose · IA aplicada — Córdoba, España</text>
 </svg>
